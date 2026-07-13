@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0051-n-queens) |
+| [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1094-car-pooling) |
 ## Sorting
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1094-car-pooling) |
 ## Math
 |  |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
