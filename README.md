@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0390-elimination-game) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0390-elimination-game) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Memoization
 |  |
 | ------- |
