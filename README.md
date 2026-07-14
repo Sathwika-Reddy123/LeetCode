@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0077-combinations) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0051-n-queens) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1094-car-pooling) |
@@ -59,9 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
