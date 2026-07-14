@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0051-n-queens) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -70,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
