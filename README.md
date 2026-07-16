@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
