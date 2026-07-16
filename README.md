@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0390-elimination-game) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Hash Table
 |  |
