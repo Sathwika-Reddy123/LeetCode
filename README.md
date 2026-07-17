@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0051-n-queens) |
 | [0118-pascals-triangle](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0118-pascals-triangle) |
+| [0518-coin-change-ii](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1094-car-pooling) |
 ## Sorting
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
