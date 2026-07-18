@@ -9,3 +9,4 @@ class Solution:
         if len(r)==0:
             return [-1,-1]
         return [r[0],r[-1]]
+        
