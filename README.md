@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -132,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
