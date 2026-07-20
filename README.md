@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0851-loud-and-rich](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0851-loud-and-rich) |
 | [1094-car-pooling](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1094-car-pooling) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -154,9 +156,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0851-loud-and-rich](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0851-loud-and-rich) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
+| [0851-loud-and-rich](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0851-loud-and-rich) |
 <!---LeetCode Topics End-->
