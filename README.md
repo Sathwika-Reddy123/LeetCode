@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -149,7 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
