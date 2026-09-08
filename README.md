@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0072-edit-distance) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0015-3sum) |
+| [0647-palindromic-substrings](https://github.com/Sathwika-Reddy123/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
 | ------- |
